@@ -1,12 +1,13 @@
 ﻿# Java-JUnit5-and-Selenium-testing
-[PL]
+[PL]------------------------------------------------------------------------------------------------------
 
 Testy w Javie przeprowadzone na różnych aplikacjach
 W tym repoytorium znajdziesz różne testy przeprowadzane podczas mojej nauki na Uniwersytecie Gdańskim.
 
 Stan projektów:
 
-[ENG]
+
+[ENG]-----------------------------------------------------------------------------------------------------
 
 Tests performed in Java for different apps.
 There are different tests performed during my education at University of Gdansk.
